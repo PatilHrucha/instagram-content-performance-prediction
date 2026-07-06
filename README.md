@@ -1,4 +1,5 @@
-Instagram Content Performance Prediction
+Instagram Content Performance Prediction Project
+
 Project Overview
 This project predicts the performance of an Instagram post using Machine Learning.
 

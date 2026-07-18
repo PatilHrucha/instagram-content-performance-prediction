@@ -44,6 +44,7 @@ streamlit run app.py
 ```
 
 ## Output
+![App Screenshot](screenshot.png)
 The model predicts whether a post will perform as Low, Medium, High, or Viral based on the input features, with a confidence score shown alongside the prediction.
 
 ## Future Improvements
